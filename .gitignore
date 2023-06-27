@@ -1,0 +1,12 @@
+node_modules
+.idea/
+.DS_Store
+coverage/
+.nyc_output
+dist/
+reports/
+/allure-report
+/testReport/api/allure-results
+/testReport/api/logs
+/testReport/ui/allure-results
+/testReport/ui/logs
